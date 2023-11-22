@@ -9,3 +9,4 @@ fiona==1.9.5
 rtree==1.1.0
 matplotlib==3.8.0
 geocube
+IPython
